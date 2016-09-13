@@ -1,10 +1,10 @@
 {
-  "name": "AwesomeBot",
+  "name": "Trench_Bot",
   "version": "0.1.1",
-  "author": "BitQuote",
+  "author": "Trench Foot",
   "repository": {
     "type": "git",
-    "url": "https://github.com/BitQuote/AwesomeBot.git"
+    "url": "https://github.com/thetrenchfoot/Trench_Bot"
   },
   "license": "CCPL",
   "dependencies": {
